@@ -3,7 +3,6 @@ from matplotlib.patches import FancyArrowPatch
 
 
 print("BIENVENIDO")
-print("Hola")
 
 # === Definición del DFA >>>>>>
 states = {"q0","q1","q2","q3","q4"}
